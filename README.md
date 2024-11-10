@@ -1,4 +1,4 @@
-# Delyvery Brasil Power BI
+# Delivery Brasil Power BI
 ### Utilizando dados reais porém apresentando como uma empresa fictícia de e-commece atuando no sul e sudeste do Brasil.
 
 ### Video de apresentação do projeto
