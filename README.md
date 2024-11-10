@@ -1,7 +1,5 @@
 # Delyvery Brasil Power BI
-###Um modelo real de uma empresa fictícia do ramo de entregas para e-commerce 
-
-
+### Utilizando dados reais porém apresentando como uma empresa ficícia de e-commece atuando no sul e sudeste do Brasil.
 
 No link abaixo você consegue acessar o dashboard do Power BI:
 
